@@ -1,0 +1,26 @@
+.x{
+	width: 25%;
+	border: 1px solid black;
+}
+.cuadrado{
+	height: 100px;
+	width: 25%;
+	float: left;
+	
+}
+#amarillo{
+	background-color: yellow;
+}
+#azul{
+	background-color: blue;
+}
+#rojo{
+	background-color: red;
+}
+.clearfix:after, .clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after{
+	clear: both;
+}
