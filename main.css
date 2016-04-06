@@ -17,7 +17,7 @@
 #rojo{
 	background-color: red;
 }
-.clearfix:after, .clearfix:after {
+.clearfix:after, .clearfix:before {
 	content: "";
 	display: table;
 }
